@@ -13,7 +13,7 @@ const Tracker = () => {
   return (
     <>
       <TrackerContainer>
-        <h2>Your pizza is on the way....unless this doggo got to it first!!</h2>
+        <h2>As long as our guard dog doesn't eat it first your pizza is on it's way</h2>
         <img alt="delicious-pizza" className="pizza-hero" src={dog} />
       </TrackerContainer>
     </>
